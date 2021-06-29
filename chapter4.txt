@@ -1,0 +1,7 @@
+But I think if you need to git, it's always good to really know in your head exactly what's going on.
+
+So I recommend actually separating those two bits out.
+
+So let's go ahead and give it a commit message, add chapter r.
+
+OK.
